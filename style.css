@@ -17,9 +17,9 @@ body {
 h1 {
   position: relative;
   font-family: 'Press Start 2P', cursive;
-  font-size: 6vw;
+  font-size: 3vw;
   font-weight: bold;
-  padding-left: 15vw;
+  padding-left: 5vw;
   overflow: hidden;
 }
 
